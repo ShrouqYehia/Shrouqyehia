@@ -19,9 +19,8 @@
 <a href="https://www.linkedin.com/in/shrouqq-yehya-54a7a82a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:YourEmail@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-</a>
+
+
 </p>
 
 ---

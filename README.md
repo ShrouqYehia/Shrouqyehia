@@ -6,6 +6,6 @@
 
 ## 📫 How to reach me
 - 📧 Email: shrouqqqyehya@gmail.com
-- LinkedIn: [Shrouqq Yehya](https://www.linkedin.com/in/YourLinkHere/)
+- LinkedIn: [Shrouqq Yehya](LinkedIn: [Shrouq Yehia](https://www.linkedin.com/in/YourLinkHere/))
   
   

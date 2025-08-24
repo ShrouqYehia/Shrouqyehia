@@ -6,12 +6,13 @@
 
 ## 📫 How to reach me
 - 📧 Email: shrouqqqyehya@gmail.com
-- 🐦 Twitter: [@ShrouqY88183](https://twitter.com/YourUserName)  
+- 
+- 🐦 Twitter: [@ShrouqY88183]
+- 
+- (https://twitter.com/YourUserName)
+-  
  LinkedIn: [Shrouq Yehia](https://www.linkedin.com/in/shrouqq-yehya-54a7a82a7)  
 
  Codeforces: [shrouq_yehya245](https://codeforces.com/profile/shrouq_yehya245)  
 
----
-
-⭐️ From [ShrouqYehia](https://github.com/ShrouqYehia)
   
